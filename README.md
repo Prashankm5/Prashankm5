@@ -1,4 +1,4 @@
-![logo](https://github.com/Prashankm5/Prashankm5/blob/main/Software%20Engineer.png)
+![logo](https://github.com/Prashankm5/Prashankm5/blob/main/Banner(2).png)
 
 <h1 align="center">Hi 👋, I'm Prashank Mishra</h1>
 <h3 align="center">A passionate Software developer from India</h3>
